@@ -1,1 +1,0 @@
-# joshuamoorehead.github.io
