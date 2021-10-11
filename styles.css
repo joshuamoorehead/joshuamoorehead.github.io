@@ -1,9 +1,22 @@
 body {
-    background:blueviolet;
+    background:rgb(180, 118, 238);
     font-family: Arial, Helvetica, sans-serif;
 }
+.assignment {
+    display: flex;
+    padding:12px;
+    background: lightblue;
+}
 
+.assignment img {
+    width: 200px;
+    height: 300px;
+    padding: 10px;
+}
 h1{
-    color: turquoise;
+    color: rgb(110, 103, 103);
     text-align: center;
 }
+
+
+
