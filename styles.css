@@ -4,14 +4,16 @@ body {
 }
 .assignment {
     display: flex;
-    padding:12px;
+    padding:10px;
+    margin: 10px;
     background: lightblue;
 }
 
 .assignment img {
     width: 200px;
-    padding: 10px;
+    padding:10px;
 }
+
 h1{
     color: rgb(110, 103, 103);
     text-align: center;
