@@ -13,16 +13,16 @@ body {
     width: 200px;
     height: 200px;
     margin: 10px;
-    border: 4px solid #F2C8C4;
+    border: 4px solid #5092cc;
     border-radius: 30px;
 }
 
 .assignment img:hover {
-    border: 4px solid #2175BF;
+    border: 4px solid #BF8275;
 }
 
 h1{
-    color: #2175BF;
+    color: #5092cc;
     text-align: center;
 }
 
